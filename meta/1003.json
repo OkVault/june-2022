@@ -1,0 +1,17 @@
+{
+    "name": "Ok.Vault -Cancer Vault- Pass",
+    "description": "Part of Day-1 for Ok.Vault", 
+    "external_url": "https://ok.gold/", 
+    "image": "https://raw.githubusercontent.com/OkVault/june-2022/main/assets/okVault-June.png",
+    "attributes": [
+      {
+        "trait_type": "Vault", 
+        "value": "Cancer"
+      },  
+      {
+        "display_type": "number", 
+        "trait_type": "Version", 
+        "value": 2
+      }
+    ]
+  } 

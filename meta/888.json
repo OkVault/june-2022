@@ -1,0 +1,17 @@
+{
+    "name": "Ok.Vault Winner (July)",
+    "description": "Winner at One Auction at Ok.Vault", 
+    "external_url": "https://ok.gold/", 
+    "image": "https://raw.githubusercontent.com/OkVault/june-2022/main/assets/okVault-June.png",
+    "attributes": [
+      {
+        "trait_type": "Medal", 
+        "value": "Gold"
+      },  
+      {
+        "display_type": "number", 
+        "trait_type": "Version", 
+        "value": 2
+      }
+    ]
+  } 

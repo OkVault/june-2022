@@ -1,0 +1,17 @@
+{
+    "name": "Ok.Vault -Day 1- Pass",
+    "description": "Part of OG Pass July for Ok.Vault", 
+    "external_url": "https://ok.gold/", 
+    "image": "https://raw.githubusercontent.com/OkVault/june-2022/main/assets/okVault-June.png",
+    "attributes": [
+      {
+        "trait_type": "Day", 
+        "value": "1"
+      },  
+      {
+        "display_type": "number", 
+        "trait_type": "Version", 
+        "value": 2
+      }
+    ]
+  } 

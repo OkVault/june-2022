@@ -1,0 +1,17 @@
+{
+    "name": "Ok.Vault -Leo Vault- Pass",
+    "description": "Part of Day-2 for Ok.Vault", 
+    "external_url": "https://ok.gold/", 
+    "image": "https://raw.githubusercontent.com/OkVault/june-2022/main/assets/okVault-June.png",
+    "attributes": [
+      {
+        "trait_type": "Vault", 
+        "value": "Leo"
+      },  
+      {
+        "display_type": "number", 
+        "trait_type": "Version", 
+        "value": 2
+      }
+    ]
+  } 
